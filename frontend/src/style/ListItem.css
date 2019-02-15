@@ -1,0 +1,15 @@
+.list-item {
+  min-height: 7%;
+  user-select: none;
+  cursor: pointer;
+  font-size: larger;
+}
+.done {
+  text-decoration: line-through;
+  border-width: 2px !important;
+}
+.deleting {
+  border: none;
+  color: gray !important;
+  background-color: #343a40 !important;
+}
